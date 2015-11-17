@@ -1,6 +1,6 @@
 tip
 ===
-Tip is a program to monitor and regulate the Temperature of a cryostat
+Tip is a program to monitor and regulate the temperature of a cryostat
 
 # Features:
   * Several drivers for resistance bridges
